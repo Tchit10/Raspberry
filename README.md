@@ -1,3 +1,5 @@
+# Pi Board
+
 The first part of the instructions below adds the main shutdown script for the RemotePi Board to the autostart.sh file, which enables the script to run when the OS starts.
 
 * Key in (mind the . in front of config !) :
